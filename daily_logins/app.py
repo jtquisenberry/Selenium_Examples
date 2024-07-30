@@ -14,9 +14,9 @@ now = datetime.now()
 timestamp = str(now).replace(' ', '_').replace(':', '-').replace('.', '-')
 os.chdir(os.path.dirname(__file__))
 
-screenshot_dir = r'E:\Development\private\daily_logins'
+screenshot_dir = r'D:\Development\private\daily_logins'
 
-with open(r"E:\Development\private\daily_logins.json") as f:
+with open(r"D:\Development\private\daily_logins.json") as f:
     data = json.load(f)
     dummy_breakpoint = 1
 

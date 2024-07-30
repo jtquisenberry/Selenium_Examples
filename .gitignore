@@ -1,14 +1,3 @@
 
-daily_logins/.idea/encodings.xml
-daily_logins/.idea/inspectionProfiles/profiles_settings.xml
-daily_logins/.idea/misc.xml
-daily_logins/.idea/modules.xml
-daily_logins/.idea/Selenium00A.iml
-daily_logins/.idea/workspace.xml
-daily_logins/.idea/vcs.xml
-ReadEOBs/.idea/encodings.xml
-ReadEOBs/.idea/inspectionProfiles/profiles_settings.xml
-ReadEOBs/.idea/inspectionProfiles/Project_Default.xml
-ReadEOBs/.idea/misc.xml
-ReadEOBs/.idea/modules.xml
-ReadEOBs/.idea/ReadCigna.iml
+daily_logins/.idea/
+read_eob/.idea/

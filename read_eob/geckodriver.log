@@ -1,0 +1,1216 @@
+1601441423382	geckodriver	INFO	Listening on 127.0.0.1:49570
+1601441423429	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilejvJUzG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601441426161	Marionette	INFO	Listening on port 49576
+1601441426567	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601442013748	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gamefaqs.gamespot.com"
+1601442150407	geckodriver	INFO	Listening on 127.0.0.1:54680
+1601442150426	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileuY5f3v"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601442152909	Marionette	INFO	Listening on port 54685
+1601442153040	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gamefaqs.gamespot.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gamefaqs.gamespot.com"
+1601442623826	geckodriver	INFO	Listening on 127.0.0.1:58071
+1601442623846	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileOG5o74"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601442626340	Marionette	INFO	Listening on port 58076
+1601442626455	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601442654662	Marionette	INFO	Stopped listening on port 58076
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601442915501	geckodriver	INFO	Listening on 127.0.0.1:60201
+1601442915522	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileazZU9F"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601442918156	Marionette	INFO	Listening on port 60206
+1601442918645	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601442944691	Marionette	INFO	Stopped listening on port 60206
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601443195891	geckodriver	INFO	Listening on 127.0.0.1:62242
+1601443195908	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileDgVr7n"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601443198341	Marionette	INFO	Listening on port 62247
+1601443198526	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601443298980	Marionette	INFO	Stopped listening on port 62247
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601443359195	geckodriver	INFO	Listening on 127.0.0.1:63655
+1601443359212	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilebDfw21"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601443361634	Marionette	INFO	Listening on port 63660
+1601443361828	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1601443371497	Marionette	INFO	Stopped listening on port 63660
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39013F,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 33428, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39013F,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601443601981	geckodriver	INFO	Listening on 127.0.0.1:49154
+1601443601997	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileQ3pRRq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601443604441	Marionette	INFO	Listening on port 49159
+1601443604611	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601443614589	Marionette	INFO	Stopped listening on port 49159
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601443954691	geckodriver	INFO	Listening on 127.0.0.1:51753
+1601443954707	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilepPIb1f"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601443957129	Marionette	INFO	Listening on port 51758
+1601443957318	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601443968430	Marionette	INFO	Stopped listening on port 51758
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601445424860	geckodriver	INFO	Listening on 127.0.0.1:62047
+1601445425377	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile3He550"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601445427873	Marionette	INFO	Listening on port 62057
+1601445427995	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+1601445438450	Marionette	INFO	Stopped listening on port 62057
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601447227297	geckodriver	INFO	Listening on 127.0.0.1:58498
+1601447227316	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileOCaPBZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601447229250	Marionette	INFO	Listening on port 58503
+1601447229337	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+1601447240437	Marionette	INFO	Stopped listening on port 58503
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601448300507	geckodriver	INFO	Listening on 127.0.0.1:49544
+1601448300551	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilebh3Kax"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601448302343	Marionette	INFO	Listening on port 49550
+1601448302562	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1601448323568	Marionette	INFO	Stopped listening on port 49550
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601452800267	geckodriver	INFO	Listening on 127.0.0.1:61958
+1601452800283	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile4AdoLV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601452802120	Marionette	INFO	Listening on port 61963
+1601452802299	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+1601452813414	Marionette	INFO	Stopped listening on port 61963
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601539201803	geckodriver	INFO	Listening on 127.0.0.1:53041
+1601539201849	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileJctXQD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601539203994	Marionette	INFO	Listening on port 53046
+1601539204462	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1601952901174	Marionette	ERROR	[18] No reply from Marionette:Register
+[Parent 29680, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1601952902687	Marionette	INFO	Stopped listening on port 53046
+TURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601625604219	Marionette	INFO	Listening on port 57935
+1601625604326	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601625614395	Marionette	INFO	Stopped listening on port 57935
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601712001787	geckodriver	INFO	Listening on 127.0.0.1:64498
+1601712001834	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileRz7SQs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601712003938	Marionette	INFO	Listening on port 64503
+1601712003949	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601712014539	Marionette	INFO	Stopped listening on port 64503
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601786427908	geckodriver	INFO	Listening on 127.0.0.1:61706
+1601786428332	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileHnRfqD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601786430974	Marionette	INFO	Listening on port 61715
+1601786431445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601786520216	geckodriver	INFO	Listening on 127.0.0.1:62312
+1601786520237	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile2JYiKs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601786522831	Marionette	INFO	Listening on port 62317
+1601786522848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601786556700	Marionette	INFO	Stopped listening on port 62317
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601786703846	geckodriver	INFO	Listening on 127.0.0.1:63644
+1601786703867	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilekRchUV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601786706476	Marionette	INFO	Listening on port 63649
+1601786706481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601786794833	Marionette	INFO	Stopped listening on port 63649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601786807138	geckodriver	INFO	Listening on 127.0.0.1:64365
+1601786807160	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile2VtARj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601786809645	Marionette	INFO	Listening on port 64371
+1601786809776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601786909560	Marionette	INFO	Stopped listening on port 64371
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601786927683	geckodriver	INFO	Listening on 127.0.0.1:65308
+1601786927703	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileUiP66b"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601786930178	Marionette	INFO	Listening on port 65313
+1601786930312	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://stackoverflow.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://stackoverflow.com"
+1601787001211	Marionette	INFO	Stopped listening on port 65313
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601787055808	geckodriver	INFO	Listening on 127.0.0.1:49771
+1601787055830	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile0CX9Rv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601787058271	Marionette	INFO	Listening on port 49778
+1601787058442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601787060401	Marionette	INFO	Stopped listening on port 49778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601787126430	geckodriver	INFO	Listening on 127.0.0.1:50260
+1601787126451	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileu7CBn6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601787128961	Marionette	INFO	Listening on port 50265
+1601787129065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601787342500	geckodriver	INFO	Listening on 127.0.0.1:51719
+1601787342524	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileh4KJ90"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601787345076	Marionette	INFO	Listening on port 51724
+1601787345135	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601787466883	Marionette	INFO	Stopped listening on port 51724
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601787489854	geckodriver	INFO	Listening on 127.0.0.1:52816
+1601787489875	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileEoNmw0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601787492407	Marionette	INFO	Listening on port 52821
+1601787492486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601788059131	geckodriver	INFO	Listening on 127.0.0.1:56523
+1601788059157	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile3rUQXb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601788061731	Marionette	INFO	Listening on port 56528
+1601788061768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601788106244	Marionette	INFO	Stopped listening on port 56528
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601788147311	geckodriver	INFO	Listening on 127.0.0.1:57238
+1601788147330	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileos05cw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601788149900	Marionette	INFO	Listening on port 57243
+1601788149947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601788151988	Marionette	INFO	Stopped listening on port 57243
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601788192159	geckodriver	INFO	Listening on 127.0.0.1:57577
+1601788192180	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileI9BWp5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601788194661	Marionette	INFO	Listening on port 57582
+1601788194792	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601788270883	Marionette	INFO	Stopped listening on port 57582
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601788427946	geckodriver	INFO	Listening on 127.0.0.1:59218
+1601788427967	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileggO7il"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601788430520	Marionette	INFO	Listening on port 59223
+1601788430580	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+1601788444928	Marionette	INFO	Stopped listening on port 59223
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601788832781	geckodriver	INFO	Listening on 127.0.0.1:62011
+1601788832797	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilexFfDpT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601788834624	Marionette	INFO	Listening on port 62016
+1601788834807	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601788846406	Marionette	INFO	Stopped listening on port 62016
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601788847250	geckodriver	INFO	Listening on 127.0.0.1:62276
+1601788847762	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilenEgGKU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601788849582	Marionette	INFO	Listening on port 62286
+1601788849771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601788862576	Marionette	INFO	Stopped listening on port 62286
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601788898565	geckodriver	INFO	Listening on 127.0.0.1:62689
+1601788898583	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileuS5jAi"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601788901138	Marionette	INFO	Listening on port 62694
+1601788901194	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+1601788919070	Marionette	INFO	Stopped listening on port 62694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601788919955	geckodriver	INFO	Listening on 127.0.0.1:63023
+1601788920467	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilesKSNNX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601788922935	Marionette	INFO	Listening on port 63031
+1601788923079	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601788948442	Marionette	INFO	Stopped listening on port 63031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601788976585	geckodriver	INFO	Listening on 127.0.0.1:63489
+1601788976601	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileQfkmm0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601788979037	Marionette	INFO	Listening on port 63494
+1601788979220	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+1601788989553	Marionette	INFO	Stopped listening on port 63494
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601788990540	geckodriver	INFO	Listening on 127.0.0.1:63839
+1601788991051	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilede5vGI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601788992868	Marionette	INFO	Listening on port 63849
+1601788993060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601789005607	Marionette	INFO	Stopped listening on port 63849
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601801877107	geckodriver	INFO	Listening on 127.0.0.1:63692
+1601801877597	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileYIvFx1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601801880341	Marionette	INFO	Listening on port 63698
+1601801880719	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601801892501	Marionette	INFO	Stopped listening on port 63698
+JavaScript error: https://z.moatads.com/cbsdfp5832910442/moatad.js#moatClientLevel1=24804129&moatClientLevel2=297855729&moatClientLevel3=4776189779&moatClientLevel4=138307542537&moatClientSlicer1=41338089&moatClientSlicer2=41338209&zMoatHBS=&zMoatMSafety=&zMoatMGV=&zMoatMData=&zMoatPS=&zMoatSECT=&zMoatSL=&zMoatFT=&zMoatPT=&zMoatH=90&zMoatW=728&zMoatSN=&zMoatHBB=&zMoatVGUID=&zMoatAID=&zMoatMMV= line 58 > eval, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://z.moatads.com/cbsdfp5832910442/moatad.js#moatClientLevel1=24804129&moatClientLevel2=297855729&moatClientLevel3=4776189779&moatClientLevel4=138307531433&moatClientSlicer1=41338089&moatClientSlicer2=41338209&zMoatHBS=&zMoatMSafety=&zMoatMGV=&zMoatMData=&zMoatPS=&zMoatSECT=&zMoatSL=&zMoatFT=&zMoatPT=&zMoatH=250&zMoatW=300&zMoatSN=&zMoatHBB=&zMoatVGUID=&zMoatAID=&zMoatMMV= line 58 > eval, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Child 44160, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 44160, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 44160, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 44160, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601801893903	geckodriver	INFO	Listening on 127.0.0.1:64033
+1601801894414	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile8QfEam"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601801896937	Marionette	INFO	Listening on port 64043
+1601801897029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601801910573	Marionette	INFO	Stopped listening on port 64043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601808677816	geckodriver	INFO	Listening on 127.0.0.1:57250
+1601808678326	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile0WLh8v"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601808680922	Marionette	INFO	Listening on port 57258
+1601808680976	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+1601808691567	Marionette	INFO	Stopped listening on port 57258
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601808692426	geckodriver	INFO	Listening on 127.0.0.1:57529
+1601808692936	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileRk3IKN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601808695405	Marionette	INFO	Listening on port 57538
+1601808695551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601808708534	Marionette	INFO	Stopped listening on port 57538
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601887705287	geckodriver	INFO	Listening on 127.0.0.1:65466
+1601887705789	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilevItyBU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601887707967	Marionette	INFO	Listening on port 65476
+1601887708415	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+1601887719229	Marionette	INFO	Stopped listening on port 65476
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601887720485	geckodriver	INFO	Listening on 127.0.0.1:49373
+1601887720916	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileArYIVg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601887723141	Marionette	INFO	Listening on port 49383
+1601887723533	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601887737367	Marionette	INFO	Stopped listening on port 49383
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601894858589	geckodriver	INFO	Listening on 127.0.0.1:56855
+1601894859058	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileA3rLK5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601894864174	Marionette	INFO	Listening on port 56865
+1601894864294	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601894874391	Marionette	INFO	Stopped listening on port 56865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601894875324	geckodriver	INFO	Listening on 127.0.0.1:57154
+1601894875870	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileui2Obo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601894878430	Marionette	INFO	Listening on port 57160
+1601894878509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601894892073	Marionette	INFO	Stopped listening on port 57160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601972187285	geckodriver	INFO	Listening on 127.0.0.1:62686
+1601972187755	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileAKP6oA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601972189591	Marionette	INFO	Listening on port 62693
+1601972189784	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+1601972202246	Marionette	INFO	Stopped listening on port 62693
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601972203082	geckodriver	INFO	Listening on 127.0.0.1:62975
+1601972203615	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofiledIXYkc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601972205415	Marionette	INFO	Listening on port 62984
+1601972205624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601972218947	Marionette	INFO	Stopped listening on port 62984
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601981821446	geckodriver	INFO	Listening on 127.0.0.1:50908
+1601981821462	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilew9yNPg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601981823400	Marionette	INFO	Listening on port 50913
+1601981823472	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1601981833932	Marionette	INFO	Stopped listening on port 50913
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39013F,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 31664, Chrome_ChildThre
+###!!! [Child][MessageChannel] Error: (msgtype=0x39013F,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+ad] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601981834749	geckodriver	INFO	Listening on 127.0.0.1:51121
+1601981835293	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileV79ZFs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Compositor window was not created
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1601981837067	Marionette	INFO	Listening on port 51126
+1601981837303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601981850583	Marionette	INFO	Stopped listening on port 51126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602045660734	geckodriver	INFO	Listening on 127.0.0.1:64554
+1602045661266	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilewd89bi"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602045663829	Marionette	INFO	Listening on port 64559
+1602045663893	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://gamefaqs.gamespot.com/, line 82: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: https://gamefaqs.gamespot.com/, line 8: ReferenceError: osdlfm is not defined
+1602045681636	Marionette	INFO	Stopped listening on port 64559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602046129970	geckodriver	INFO	Listening on 127.0.0.1:65054
+1602046130521	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilemE683f"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602046132948	Marionette	INFO	Listening on port 65059
+1602046133136	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1602046143119	Marionette	INFO	Stopped listening on port 65059
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602046144048	geckodriver	INFO	Listening on 127.0.0.1:65240
+1602046144568	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileX4Ax1H"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602046146991	Marionette	INFO	Listening on port 65245
+1602046147181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602046159099	Marionette	INFO	Stopped listening on port 65245
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602046921257	geckodriver	INFO	Listening on 127.0.0.1:49521
+1602046921273	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile6HOsEr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602046923660	Marionette	INFO	Listening on port 49526
+1602046923887	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1602046934540	Marionette	INFO	Stopped listening on port 49526
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602046935428	geckodriver	INFO	Listening on 127.0.0.1:49758
+1602046935939	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile16UWok"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602046938382	Marionette	INFO	Listening on port 49764
+1602046938550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602046950590	Marionette	INFO	Stopped listening on port 49764
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614408564946	geckodriver	INFO	Listening on 127.0.0.1:56346
+1614408564977	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileZ6D5rF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614408568029	Marionette	INFO	Listening on port 56353
+1614408568169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614408570794	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614408572034	Marionette	INFO	Stopped listening on port 56353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614408919237	geckodriver	INFO	Listening on 127.0.0.1:58744
+1614408919259	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilehEqghQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614408921962	Marionette	INFO	Listening on port 58750
+1614408922440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614408924789	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614408926281	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614408926281	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614449352849	geckodriver	INFO	Listening on 127.0.0.1:49215
+1614449352869	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileMteRAq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614449355808	Marionette	INFO	Listening on port 49220
+1614449356063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614449358458	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614449359627	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614449802446	geckodriver	INFO	Listening on 127.0.0.1:52234
+1614449802468	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileaAMJgv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614449805216	Marionette	INFO	Listening on port 52240
+1614449805650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614449809598	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614449810814	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614449810814	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614449815580	Marionette	INFO	Stopped listening on port 52240
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614449847080	geckodriver	INFO	Listening on 127.0.0.1:52636
+1614449847103	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile6P3w5q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614449849970	Marionette	INFO	Listening on port 52641
+1614449850284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614449853069	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614449854307	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614449854308	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614451047136	geckodriver	INFO	Listening on 127.0.0.1:60093
+1614451047159	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile0LpiPj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614451049926	Marionette	INFO	Listening on port 60098
+1614451050331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614451052706	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614451053512	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614451053513	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614451053595	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614451054485	Marionette	INFO	Stopped listening on port 60098
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614451082548	geckodriver	INFO	Listening on 127.0.0.1:60421
+1614451082569	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilec6vM1c"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614451085360	Marionette	INFO	Listening on port 60426
+1614451085760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614451089531	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614451090295	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614451121249	Marionette	INFO	Stopped listening on port 60426
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614451209532	geckodriver	INFO	Listening on 127.0.0.1:61305
+1614451209554	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilefsNFWs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614451212353	Marionette	INFO	Listening on port 61311
+1614451212738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614451215071	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1614452561300	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: "Exception while calling a ResourceWatcher" "available" "callback" ":" (new TypeError("resource.targetFront is null", "resource://devtools/client/inspector/inspector.js", 1315))
+JavaScript error: resource://devtools/client/inspector/shared/highlighters-overlay.js, line 1751: TypeError: resource.targetFront is null
+JavaScript error: resource://devtools/client/inspector/markup/markup.js, line 1450: TypeError: resource.targetFront is null
+1614454030600	geckodriver	INFO	Listening on 127.0.0.1:62380
+1614454030622	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile39A9ED"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614454033513	Marionette	INFO	Listening on port 62385
+1614454033804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614454641829	geckodriver	INFO	Listening on 127.0.0.1:49910
+1614454641850	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilequdHKV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614454644727	Marionette	INFO	Listening on port 49915
+1614454645039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614454683648	geckodriver	INFO	Listening on 127.0.0.1:50285
+1614454683669	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilerCP44R"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614454686533	Marionette	INFO	Listening on port 50291
+1614454686839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614454817499	geckodriver	INFO	Listening on 127.0.0.1:51139
+1614454817520	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileKFbSsf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614454820389	Marionette	INFO	Listening on port 51144
+1614454820703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614454893175	geckodriver	INFO	Listening on 127.0.0.1:51674
+1614454893195	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilehdhAAx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614454896049	Marionette	INFO	Listening on port 51679
+1614454896376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614454899657	Marionette	INFO	Stopped listening on port 51679
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614455083135	geckodriver	INFO	Listening on 127.0.0.1:52882
+1614455083157	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileGknn3Q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614455085833	Marionette	INFO	Listening on port 52887
+1614455086335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614455090810	Marionette	INFO	Stopped listening on port 52887
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614455184751	geckodriver	INFO	Listening on 127.0.0.1:53547
+1614455184772	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileCwwhkq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614455187441	Marionette	INFO	Listening on port 53552
+1614455187959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614455196337	Marionette	INFO	Stopped listening on port 53552
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614455526689	geckodriver	INFO	Listening on 127.0.0.1:55746
+1614455526710	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile8XtaHl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614455529625	Marionette	INFO	Listening on port 55751
+1614455529885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614455532405	Marionette	INFO	Stopped listening on port 55751
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614459448814	geckodriver	INFO	Listening on 127.0.0.1:62981
+1614459449369	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilez2PTon"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614459452062	Marionette	INFO	Listening on port 62991
+1614459452536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614459454930	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614459456051	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614459456051	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614459770866	geckodriver	INFO	Listening on 127.0.0.1:65092
+1614459770887	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofilebofocB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614459773625	Marionette	INFO	Listening on port 65097
+1614459774076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614459776710	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614459777786	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614459777786	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614460126748	Marionette	INFO	Stopped listening on port 65097
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614461944233	geckodriver	INFO	Listening on 127.0.0.1:62465
+1614461944266	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofile4ulJDS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614461947061	Marionette	INFO	Listening on port 62470
+1614461947438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614461949985	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614461951152	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614461951153	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614462608056	Marionette	INFO	Stopped listening on port 62470
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614462775984	geckodriver	INFO	Listening on 127.0.0.1:51486
+1614462776006	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JQUISE~1\\AppData\\Local\\Temp\\rust_mozprofileXTRn22"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614462778812	Marionette	INFO	Listening on port 51491
+1614462779172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614462781487	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614462782655	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614462782655	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/dc174f39f7edf0798ef003d94a0e59aaf30c59a2/satelliteLib-87dfb52414160d027516941d1458a3c2cf2ccaa8.js, line 11796: unreachable code after return statement
+1614463152279	Marionette	INFO	Stopped listening on port 51491
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
