@@ -55,8 +55,11 @@ $ pkg install python-pip
 ```
 $ python -m venv ~/v311
 $ source ~/v311/bin/activate
+```
 
-# The version is important
+## Pip Packages
+
+```
 $ pip install selenium==4.9.1
 ```
 
