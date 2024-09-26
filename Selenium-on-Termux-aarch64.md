@@ -56,7 +56,7 @@ $ pip install selenium==4.9.1
 
 # Python Code
 
-```
+``` python
 from selenium import webdriver
 options = webdriver.ChromeOptions()
 options.add_argument("--no-sandbox")
