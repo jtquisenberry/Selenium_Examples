@@ -13,10 +13,17 @@
 
 ### Access to Storage
 
-Enable access by Termux to Android storage.
+* Enable access by Termux to Android storage.
 
 ```
 $ termux-setup-storage
+
+It appears that directory '~/storage' already exists.
+This script is going to rebuild its structure from
+scratch, wiping all dangling files. The actual storage
+content IS NOT going to be deleted.
+
+Do you want to continue? (y/n)
 ```
 
 # Update Linux Packages
