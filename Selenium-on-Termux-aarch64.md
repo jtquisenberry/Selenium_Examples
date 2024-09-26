@@ -19,24 +19,11 @@ Enable access by Termux to Android storage.
 $ termux-setup-storage
 ```
 
-# Linux Packages
+# Update Linux Packages
 
 ```
 $ pkg update
 $ pkg upgrade
-```
-
-# Python
-
-```
-$ pkg install python
-$ 
-```
-
-The version number is important.
-
-```
-$ pip install selenium==4.9.1
 ```
 
 # Chromium Driver
@@ -46,6 +33,26 @@ pkg install x11-repo -y
 pkg install tur-repo -y
 pkg install chromium -y
 ```
+
+# Python
+
+## Installation
+
+```
+$ pkg install python
+$ pkg install python-pip
+```
+
+## Virtual Environment
+
+```
+$ python -m venv ~/v311
+$ source ~/v311/bin/activate
+
+# The version is important
+$ pip install selenium==4.9.1
+```
+
 
 # Python Code
 
